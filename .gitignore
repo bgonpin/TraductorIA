@@ -1,0 +1,5 @@
+paginas/
+paginas_limpias/
+paginas_traducidas/
+ollama-python-main.tar.gz
+*.pyc
